@@ -1,1 +1,1 @@
-# minds-demo
+# savory minds-demo
